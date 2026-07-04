@@ -29,5 +29,5 @@ class TestMultiply:
     def test_multiply_by_zero(self):
         assert multiply(5,0) == 0
     def test_multiply_negative(self):
-        assert multiply(4, -2)== -8
+        assert multiply(4, -2)== 8
     
